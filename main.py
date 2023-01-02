@@ -5,6 +5,7 @@ import sys,os
 from sensor.entity import config_entity
 from sensor.components.data_ingestion import DataIngestion
 
+
 if __name__=="__main__":
      try:
           training_pipeline_config = config_entity.TrainingPipelineConfig()
