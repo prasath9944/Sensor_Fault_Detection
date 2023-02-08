@@ -142,14 +142,18 @@ Data Engineer[Building the Pipeline]<ul>
 <img src="https://github.com/prasath9944/Sensor_Fault_Detection/blob/main/Images/Data_ingestion.jpg">
 <p>Bring the data from the mongodb and create three files Training ,testing ,Validation in artifact folder</p><br>
 <h1>Data Validation</h1>
+<img src="https://github.com/prasath9944/Sensor_Fault_Detection/blob/main/Images/Data_Validation.jpg">
 <p>We have to validate the file/data like datatypes,no of columns,null values,numeric,categorical,check whether any datadrift occured</p><br>
 <h1>Data Transformation</h1>
+<img src="https://github.com/prasath9944/Sensor_Fault_Detection/blob/main/Images/Data_transformation.jpg">
 <p>Exploratory Data Analysis,Feature Engineering,Feature Scaling,Standardization,Encoding Techniques,Feature Selection,Principal Component Analysis</p><br>
 <h1>Model Trainer</h1>
+<img src="https://github.com/prasath9944/Sensor_Fault_Detection/blob/main/Images/Model_trainer.jpg">
 <p>Train the Data with different machine learning model and find the best model,fine tune the model with hyperparameter tuning the model we found the xgboost perform best with our sensor data so we used that model in the pipeline</p><br>
 <h1>Model Evaluation</h1>
 <p>Always Model is used in production now, we are creating new model we cannot change the production model.we have to compare it both based on that we can replace when it is better even with the testing model also.</p><br>
 <h1>Model Pusher</h1>
+<img src="https://github.com/prasath9944/Sensor_Fault_Detection/blob/main/Images/Model_pusher.jpg">
 <p>Model pusher is going to push your model into production if your trained model is better than production model deploy in the production</p><br>
 <h1>Entity</h1>
 <p>An Entity is a light weight persistence domain object.An entity represents a tables in a relational database and each enitity instance corresponds to a row in that table.</p>
