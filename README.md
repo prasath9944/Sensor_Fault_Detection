@@ -54,7 +54,7 @@ Data Engineer[Building the Pipeline]<ul>
     <li>Getting the data from various Devices and dumping in some data bases.</li>
     <li>Kafka Cluster(It is used for the straming data only)</li></ul>
 </p>
-<img src="/config/workspace/Images/Kafka_cluster.jpg">
+<img src="https://github.com/prasath9944/Sensor_Fault_Detection/blob/main/Images/Kafka_cluster.jpg">
 <ul><h3>Kafka Cluster</h3>
 <li>Horizontally Scalable</li>
 <li>It can receive the data in real time and provide data in real time(mongodb).</li>
