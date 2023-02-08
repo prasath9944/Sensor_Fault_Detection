@@ -139,6 +139,7 @@ Data Engineer[Building the Pipeline]<ul>
 <h1>Training Pipeline</h1>
 <p>The Pipeline is Composed by components arranged in specific order.</p><br>
 <h1>Data Ingestion</h1>
+<img src="https://github.com/prasath9944/Sensor_Fault_Detection/blob/main/Images/Data_ingestion.jpg">
 <p>Bring the data from the mongodb and create three files Training ,testing ,Validation in artifact folder</p><br>
 <h1>Data Validation</h1>
 <p>We have to validate the file/data like datatypes,no of columns,null values,numeric,categorical,check whether any datadrift occured</p><br>
