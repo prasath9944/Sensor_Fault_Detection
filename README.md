@@ -62,7 +62,7 @@ Data Engineer[Building the Pipeline]<ul>
 <li>It can handle huge request</li></ul>
 <hr>
 <br>
-<img src="/config/workspace/Images/training_pipeline.jpg">
+<img src="https://github.com/prasath9944/Sensor_Fault_Detection/blob/main/Images/training_pipeline.jpg">
 <h1>Training Pipeline</h1>
 <p>The Pipeline is Composed by components arranged in specific order.</p><br>
 <h1>Data Ingestion</h1>
