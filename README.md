@@ -7,8 +7,11 @@
 <a href="https://archive.ics.uci.edu/ml/datasets/APS+Failure+at+Scania+Trucks#">DataSet Link</a>
 <br>
 <p>
-This file is part of APS Failure and Operational Data for Scania Trucks.
+This file is part of APS Failure and Operational Data for Scania Trucks.</p>
+<p>
 ------------------------------------------------------------------------
+   </p>
+   <p>
 <ul>
 <li> Title: APS Failure at Scania Trucks</li>
 
