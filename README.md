@@ -8,28 +8,11 @@
 <br>
 <p>
 This file is part of APS Failure and Operational Data for Scania Trucks.
-
-Copyright (c) <2016> <Scania CV AB>
-
-This program (APS Failure and Operational Data for Scania Trucks) is 
-free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
-
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License
-along with this program.  If not, see <http://www.gnu.org/licenses/>.
-
 ------------------------------------------------------------------------
+<ul>
+<li> Title: APS Failure at Scania Trucks</li>
 
-1. Title: APS Failure at Scania Trucks
-
-2. Source Information
+<li> Source Information
    -- Creator: Scania CV AB
                Vagnmakarvägen 1 
                151 32 Södertälje 
@@ -37,8 +20,9 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
                Sweden 
    -- Donor:   Tony Lindgren (tony@dsv.su.se) and Jonas Biteus (jonas.biteus@scania.com)
    -- Date:    September, 2016
+   </li>
  
-3. Past Usage:
+ <li>Past Usage:
    Industrial Challenge 2016 at The 15th International Symposium on Intelligent Data Analysis (IDA) 
    -- Results:         
      The top three contestants                                                | Score | Number of Type 1 faults | Number of Type 2 faults
@@ -46,8 +30,9 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
      Camila F. Costa and Mario A. Nascimento                                  | 9920  | 542                     | 9
      Christopher Gondek, Daniel Hafner and Oliver R. Sampson                  | 10900 | 490                     | 12
      Sumeet Garnaik, Sushovan Das, Rama Syamala Sreepada and Bidyut Kr. Patra | 11480 | 398                     | 15
+     </li>
 
-4. Relevant Information:
+<li> Relevant Information:
    -- Introduction
      The dataset consists of data collected from heavy Scania 
      trucks in everyday usage. The system in focus is the 
@@ -84,15 +69,17 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
      which may cause a breakdown.
 
      Total_cost = Cost_1*No_Instances + Cost_2*No_Instances.
+     </li>
 
-5. Number of Instances: 
+<li> Number of Instances: 
      The training set contains 60000 examples in total in which 
      59000 belong to the negative class and 1000 positive class. 
      The test set contains 16000 examples. 
+     </li>
 
-6. Number of Attributes: 171 
+<li> Number of Attributes: 171 </li>
 
-7. Attribute Information:
+<li> Attribute Information:
    The attribute names of the data have been anonymized for 
    proprietary reasons. It consists of both single numerical 
    counters and histograms consisting of bins with different 
@@ -115,6 +102,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
   an identifier and a bin id, like "Identifier_Bin".
   In total there are 171 attributes, of which 7 are 
   histogram variabels. Missing values are denoted by "na".
+  </li></ul>
 </p>
 <br>
 <hr>
